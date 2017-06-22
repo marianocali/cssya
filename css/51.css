@@ -1,0 +1,29 @@
+*{	
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 960px;
+	margin: auto;
+}
+
+.enunciado{
+	margin: 20px 40px 20px 20px;
+}
+
+input[type="text"]{
+	background-color: yellow;
+}
+
+form{
+	width: 700px;
+	border:1px solid #CCC;
+}
+
+form label{
+	width: 120px;
+	float:left;
+	font-family:verdana;
+	font-size:16px;
+}

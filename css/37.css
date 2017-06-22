@@ -1,0 +1,26 @@
+div{
+	
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#cabecera{	
+	position: absolute;		
+	width: 90%;
+	background-color: #0C1021;
+	height: 40px;	
+	color: #BFEAFF;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#columna1{
+	position: absolute;
+	background-color: #a6a6a6;	
+	height: 90%;
+	width: 100px;
+	padding-left: 2px;
+	top: 100px;	
+
+}
+

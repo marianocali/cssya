@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/34.css">
+	<title></title>
+</head>
+<body>
+	<div>
+		<p>
+			Crear un formulario que solicite el ingreso del nombre de una persona y su edad. Aplicar el estilo 'campo' a los dos controles de tipo text.
+			<br>
+			.campo <br>
+			color:#666; <br>
+			background-color:#ffa; 
+		</p>
+	</div>
+	
+	<div id="contenedorform">
+		<form method="post" action="http://www.htmlya.registrarDatos.php">
+			<label class="campo">Ingrese nombre:</label>
+			<input type="text" name="Nombre">
+
+			<br>
+			<label class="campo">Ingrese su edad: </label>
+			<input type="Number" name="Edad" maxlength="3">
+			<br>
+			<input class="botonsubmit" type="submit" value="confirmar">
+
+		</form>
+	</div>	
+</body>
+</html>

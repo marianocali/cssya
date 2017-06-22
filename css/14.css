@@ -1,0 +1,19 @@
+h1 {
+	border-width:2px;
+	border-style:solid;
+	border-color:#0000ff;
+}
+
+
+h2 {
+	border-width:1px;
+	border-style:double; 
+	border-color:#00bfff;
+}
+
+
+h3 {
+	border-width:3px;
+	border-style:groove;
+	border-color:#333333;
+}

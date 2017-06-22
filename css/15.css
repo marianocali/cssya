@@ -1,0 +1,43 @@
+h1{
+	color: tomato;
+	border-top-width:2px;
+	border-bottom-width:2px;
+	border-right-width: 1px,;
+	border-left-style: solid;
+
+}
+
+.titulosecundario{
+	border-top-width:2px;
+	border-bottom-width:2px;
+	border-right-width: 1px,;
+	border-left-style: 1px;
+
+	border-top-color:#ffaa00;
+	border-right-color:#ff0000;
+	border-bottom-color:#ff0000;
+	border-left-color:#ffaa00;
+	color: tomato;
+}
+
+.titulopagina {
+  background-color:#ffffcc;
+  text-align:center;
+  font-family:verdana;
+  font-size:40px;
+
+  border-top-width:1px;
+  border-right-width:3px;
+  border-bottom-width:3px;
+  border-left-width:1px;
+
+  border-top-style:dotted;
+  border-right-style:solid;
+  border-bottom-style:solid;
+  border-left-style:dotted;
+
+  border-top-color:#ffaa00;
+  border-right-color:#ff0000;
+  border-bottom-color:#ff0000;
+  border-left-color:#ffaa00;
+}

@@ -1,0 +1,30 @@
+*{	
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 960px;
+	margin: auto;
+	font-family: verdana;	
+}
+
+ol{
+	margin: 20px;
+}
+
+ol li{
+	font-size: 1.3em;
+}
+
+ol li::first-letter{
+	 text-decoration:underline; 
+	 color: rgba(0,0,255,0.5);
+}
+
+
+
+span{
+	position: relative;
+	left: 10px;
+}

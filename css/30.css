@@ -1,0 +1,15 @@
+*{
+	margin-right: 0px;
+	padding: 0px;
+	color: #000000;
+	font-family:Helvetica;
+  	list-style-type:none;
+}
+
+
+.parrafoestrecho {
+  width:200px; 
+  text-align:justify;
+}
+
+

@@ -1,0 +1,23 @@
+
+*{
+	margin-right: 0px;
+	padding: 0px;
+	color: #000000;
+	font-family:Helvetica;
+}
+
+a:link{
+	text-decoration: line-through;
+}
+
+a:visited{
+	text-decoration: line-through;	
+}
+
+a:hover{
+	
+}
+
+a:active{
+	
+}

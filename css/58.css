@@ -1,0 +1,19 @@
+*{	
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 960px;
+	margin: auto;
+	font-family: verdana;	
+}
+
+p::before{
+	content:"- ";
+}
+
+p{
+	margin: 10px;
+	font-size: 1.2em;
+}

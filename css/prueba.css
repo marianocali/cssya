@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 960px;
+	margin: auto;
+	background-color: black;
+	background-image: url("/media/D/css/practica/img/Fondo_Naranja.jpg");
+	background-repeat: no-repeat;
+	/*background-repeat: repeat-x;*/
+	/*background-repeat: repeat-x;*/
+	/*background-position: 50% 0%;*/
+	background-position:  50% 50%;
+}
+
+h1{
+	color: white;
+	text-align: center;	
+}
+
+#div1{
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+	border-top-style: ridge;
+	border-right-style: inset;
+	border-bottom-style: outset;
+	border-left-style: solid;
+}
+
+/*#vuelo{
+	width: 50px;
+	background-repeat: repeat-x;	
+	background-repeat: repeat-y;	
+}
+*/

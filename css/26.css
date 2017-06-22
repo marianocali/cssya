@@ -1,0 +1,27 @@
+
+*{
+	margin-right: 0px;
+	padding: 0px;
+	color: #000000;
+	font-family:Helvetica;
+}
+
+a:link{
+	background-color: #dddddd;
+	/* color: #ff0000; */
+	color: #D3E9D0;
+	font-size: 1em;
+}
+
+a:visited{
+	
+}
+
+a:hover{
+	font-size:1.1em;
+	background-color: #DEE522;
+}
+
+a:active{
+	font-size:1.5em;
+}

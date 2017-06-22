@@ -1,0 +1,8 @@
+h1 {
+	background-image: url(../img/fondo_blue_water.jpg);
+}
+
+
+div {
+  background: top repeat-y scroll url(../img/fondo.jpg);
+}

@@ -1,0 +1,17 @@
+ul{
+	list-style-type: cjk-ideographic;
+}
+
+.Lista2{
+	list-style-type: upper-roman;
+}
+
+.inside{
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+.outside{
+	list-style-type: circle;
+	list-style-position: outside;
+}

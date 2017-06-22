@@ -1,0 +1,26 @@
+*{
+	margin-right: 0px;
+	padding: 0px;
+	color: #000000;
+	font-family:Helvetica;
+	list-style-type:none;
+}
+
+table{
+	border-collapse: collapse;
+	background-color: #dddddd;
+}
+
+
+
+tbody th{
+	color: #FF0000;
+	background-color: #6495ed;
+}
+
+tbody td{
+	color: #0000FF;
+	border: 1px solid #000;
+	padding: .5em;
+	width: 5em;
+}

@@ -1,0 +1,23 @@
+#cabecera {
+  font-family:Times New Roman;
+  font-size:30px;
+  text-align:center;
+  color:#0000ff;
+  background-color:#bbbbbb;
+}
+
+#cuerpo {
+  font-family:Tahoma;
+  font-size:20px;
+  text-align:center;
+  color:#ff000ff;
+  background-color:#ccccbb;
+}
+
+#pie {
+  font-family:Tahoma;
+  font-size:14px;
+  text-align:center;
+  color:#ff000ff;
+  background-color:#aaccbb;
+}

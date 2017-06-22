@@ -1,0 +1,28 @@
+*{	
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 960px;
+	margin: auto;
+	font-family: verdana;	
+	font-size: 1.2em;
+}
+
+table , td{
+	border: 2px solid black;
+	margin: 20px;
+	background-color: #05f;
+	border-collapse: collapse;
+	margin: auto;
+	color: white;
+}
+	
+table tr td:empty{
+	background-color: rgba(0,50,50,0.4);
+}
+
+td {
+	padding: 4px;
+}

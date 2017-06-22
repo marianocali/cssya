@@ -1,0 +1,54 @@
+p {
+  margin:0;
+  padding:0;
+}
+
+.fondo1 {
+  background-color:#000;
+  color:#fff;
+}
+
+.fondo2 {
+  background-color:#111;
+  color:#eee;
+}
+
+.fondo3 {
+  background-color:#222;
+  color:#ddd;
+}
+
+.fondo4 {
+  background-color:#333;
+  color:#ccc;
+}
+
+.fondo5 {
+  background-color:#444;
+  color:#bbb;
+}
+
+.fondo6 {
+  background-color:#555;
+  color:#aaa;
+}
+
+.fondo7 {
+  background-color:#666;
+  color:#999;
+}
+
+.fondo8 {
+  background-color:#777;
+  color:#ff0;
+}
+
+.fondo9 {
+  background-color:#888;
+  color:#777;
+}
+
+#p10 {
+  background-color:#999;
+  color:#666;
+}

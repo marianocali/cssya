@@ -1,0 +1,14 @@
+*{	
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 960px;
+	margin: auto;
+	font-family: verdana;	
+}
+
+p:nth-of-type(1){
+	color: red;
+}

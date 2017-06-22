@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 1px solid red;
+}
+
+/************body ********************/
+
+ul{
+	margin: 40px;
+}
+
+.caja1{
+	position: relative;
+	top: 20px;
+	left: 20px;
+	background-color: #139EEE;
+	width: 200px;
+	height: 400px;
+	padding: 15px;
+}
+
+.caja2{
+	position: relative;
+	top: -400px;
+	left: 500px;
+	background-color: #00e;
+	width: 200px;
+	height: 400px;
+	padding: 15px;
+}
+
+
+.li1{
+	list-style-type:disc;
+}
+
+.li2{
+	list-style-type:circle;
+}
+
+.li3{
+	list-style-type:square;	
+}
+
+.li4{
+	list-style-type: decimal;
+}
+
+.li5{
+	list-style-type: lower-roman;
+}
+
+.li6{
+	list-style-type: upper-roman;
+}
+
+.li7{
+	list-style-type: lower-alpha;
+}
+
+.li8{
+	list-style-type: upper-alpha;
+}
+
+/*disc, circle, square, decimal, 
+lower-roman, upper-roman, 
+lower-alpha, upper-alpha, none.
+
+ disc, circle, square, decimal, 
+ lower-roman, upper-roman, 
+ lower-alpha, upper-alpha, none.
+*/
+/*
+.Lista2{
+	list-style-type: upper-roman;
+}
+
+.inside{
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+.outside{
+	list-style-type: circle;
+	list-style-position: outside;
+}*/

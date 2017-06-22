@@ -1,0 +1,12 @@
+body{
+	letter-spacing: 2px;
+	background-image: url(../img/Fondo_Naranja.jpg);
+	// background-image: url(../img/fondo.jpg); 
+	background-repeat:repeat;
+	//background-attachment:scroll;/*luego probar con fixed*/
+	background-attachment:scroll;/*luego probar con fixed*/
+}
+
+p{
+	font-size: 40px;
+}

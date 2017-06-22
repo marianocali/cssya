@@ -1,0 +1,24 @@
+*{	
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 960px;
+	margin: auto;
+	font-family: verdana;	
+}
+
+.linea{
+	background-color: blue;
+	height: 3px;
+}
+
+
+table{
+	margin:10px;
+}
+
+.tabla td:only-child {
+  color:blue;
+}

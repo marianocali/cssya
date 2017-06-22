@@ -1,0 +1,23 @@
+*{	
+	margin: 0;
+	padding: 0;
+}
+
+/* una forma de hacerlo */
+/*ol ul li{
+	color: red;
+}
+
+ol li{
+	color: blue;
+}
+*/
+
+/* otra forma */
+ul>li{
+	color: red;
+}
+
+ol>li{
+	color: blue;
+}
