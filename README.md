@@ -1,5 +1,5 @@
 ### CREATING USER AND DATABASE IN MYSQL
-Here is a description with command line you can do the same in Workbench as you choice.
+Here is a description with command line you can do the same in Workbench.
 
 1) At the command line, log in to MySQL as the root user:  
 
@@ -32,18 +32,18 @@ Make the same for the others files.
 ### OPEN CODE AND MODIFYING CONFIGURATION FOR DEVELOP
 
 5) import the source as maven project  
-To generate the files needed for an IntelliJ IDEA Project setup, you only need to execute the main plugin goal, which is idea:idea like so:
+To generate the maven files needed for an IntelliJ IDEA Project setup, you only need to execute the main plugin goal, which is idea:idea like so:
 
-    mvn idea:idea
+       mvn idea:idea
 
 6) change configuration in the file **enumerations.properties** for work with mysql  
 
-~~jdbc.url=jdbc:jtds:sqlserver://localhost:1433/~~
+~~jdbc.url=jdbc:jtds:sqlserver://localhost:1433/~~  
 must be replaced by:  
 jdbc.url=jdbc:mysql://localhost:3306/
 
 And   
-~~db.dialect=org.hibernate.dialect.SQLServerDialect~~
+~~db.dialect=org.hibernate.dialect.SQLServerDialect~~  
 must be replaced by:  
 db.dialect=org.hibernate.dialect.MySQLDialect
 
